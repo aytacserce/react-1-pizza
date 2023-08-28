@@ -9,7 +9,7 @@ This is the first and the most basic project of a React course that I enrolled.
 
 ---
 
-<img width="600px" src="https://github.com/cptsprrw/react-1-pizza/blob/main/Pizza-Co-screenshot.png?raw=true" />
+<img width="600px" src="https://github.com/aytacserce/react-1-pizza/blob/main/Pizza-Co-screenshot.png?raw=true" />
 
 ---
 
